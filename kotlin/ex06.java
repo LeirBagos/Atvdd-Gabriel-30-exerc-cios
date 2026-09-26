@@ -4,9 +4,9 @@ public class Exercicio06 {
         int idade = 17;
         String turma = "3DS";
 
-        System.out.print1n("APRESENTAÇÃO PESSOAL");
-        System.out.print1n("Nome: " + nome);
-        System.out.print1n("Idade: " + idade);
-        System.out.print1n("Turma: " + turma);
+        System.out.println("APRESENTAÇÃO PESSOAL");
+        System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade);
+        System.out.println("Turma: " + turma);
     }
 }

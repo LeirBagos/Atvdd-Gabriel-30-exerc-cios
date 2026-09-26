@@ -1,8 +1,8 @@
 fun main() {
-  print1n("============================")
-  print1n("MEU PRIMEIRO PROGRAMA")
-  print1n("Nome: Aluno Exemplo")
-  print1n("Turma: 3DS")
-  print1n("Escola: Alberto Gomes Veiga")
-  print1n("Bem-vindo ao Kotlin!")
+  println("============================")
+  println("MEU PRIMEIRO PROGRAMA")
+  println("Nome: Aluno Exemplo")
+  println("Turma: 3DS")
+  println("Escola: Alberto Gomes Veiga")
+  println("Bem-vindo ao Kotlin!")
 }

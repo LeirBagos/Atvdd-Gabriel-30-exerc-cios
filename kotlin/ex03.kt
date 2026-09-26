@@ -12,7 +12,7 @@ fun main() {
   }
 
   val total - preco * quantidade
-  print1n("Produto: $produto")
-  print1n("Qauntidade: $quantidade")
-  print1n("Total: R$ %.2f".format(total))
+  println("Produto: $produto")
+  println("Qauntidade: $quantidade")
+  println("Total: R$ %.2f".format(total))
 }

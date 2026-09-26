@@ -4,9 +4,9 @@ fun main() {
   val cidade = "Paranaguá"
   val linguagemFavorita = "Python"
 
-  print1n("APRESENTAÇÃO PESSOAL")
-  print1n("Nome: $nome")
-  print1n("Idade: $idade anos")
-  print1n("Cidade: $cidade")
-  print1n("Linguagem favorita: $linguagemFavorita")
+  println("APRESENTAÇÃO PESSOAL")
+  println("Nome: $nome")
+  println("Idade: $idade anos")
+  println("Cidade: $cidade")
+  println("Linguagem favorita: $linguagemFavorita")
 }

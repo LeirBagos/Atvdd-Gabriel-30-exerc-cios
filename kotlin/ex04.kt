@@ -1,8 +1,8 @@
 fun main() {
     print("Nome: ")
-    val nome = read1n()
+    val nome = readln()
     print("Idade: ")
-    val idade = read1n().toInt()
+    val idade = readln().toInt()
 
     if (idade < 0) {
         println("Idade inválida.")

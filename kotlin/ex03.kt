@@ -1,10 +1,10 @@
 fun main() {
   print("Produto: ")
-  val produto = read1n()
+  val produto = readln()
   print("Preço uitário (ex.: 12.50): ")
-  val preco = read1n().toDouble()
+  val preco = readln().toDouble()
   print("Quantidade: ")
-  val quantidade = read1n().toInt()
+  val quantidade = readln().toInt()
 
   if (preco < 0 || quantidade <- 0) {
       print("Preço ou quantidade inválidos.")
